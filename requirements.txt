@@ -2,4 +2,4 @@ Flask==2.1.0
 numpy==1.19.5
 requests==2.24.0
 pickle4
-gunicorn
+gunicornscikit-learn==0.23.0
